@@ -1,2 +1,1 @@
-#!/bin/bash
-echo Hello from DevOps Lab!
+Hello from docker
